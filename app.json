@@ -3,9 +3,9 @@
   "description": "À𝖑è𝖝 𝕻ì𝖐ù Multi Device whatsapp bot",
   "logo": "https://telegra.ph/file/03fd14a9266797b4227cb.jpg",
   "keywords": ["whatsapp"],
-  "repository": "https://github.com/Rudraraj3/Mr-anjannewbot",
+  "repository": "https://github.com/Piku090909/piku-rudra-bot-.git",
   "website": "https://nezukosupport.vercel.app/",
-  "success_url": "https://github.com/Rudraraj3/Mr-anjannewbot",
+  "success_url": "https://github.com/Piku090909/piku-rudra-bot-.git",
   "stack": "container",
   "env": {
     "SESSION_ID": {
