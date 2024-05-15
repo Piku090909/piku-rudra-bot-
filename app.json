@@ -1,7 +1,7 @@
 {
   "name": "À𝖑è𝖝 𝕻ì𝖐ù",
   "description": "À𝖑è𝖝 𝕻ì𝖐ù Multi Device whatsapp bot",
-  "logo": "https://i.imgur.com/bG3I3Gc.mp4",
+  "logo": "https://i.imgur.com/4n59xUZ.mp4",
   "keywords": ["whatsapp"],
   "repository": "https://github.com/Piku090909/piku-rudra-bot-.git",
   "website": "https://nezukosupport.vercel.app/",
@@ -19,7 +19,7 @@
      "AUDIO_DATA": {
       "description": "audio data , title;artist;image url",
       "required": "false",
-      "value": "À𝖑è𝖝 𝕻ì𝖐ù ː͢»;https://i.imgur.com/bG3I3Gc.mp4"
+      "value": "À𝖑è𝖝 𝕻ì𝖐ù ː͢»;https://i.imgur.com/4n59xUZ.mp4"
      },
      "CAPTION": {
       "description": "enter your media caption",
@@ -34,7 +34,7 @@
        "BOT_INFO": {
       "description": "Bot info : botname;ownername;imageurl - image or video",
       "required": "false",
-      "value": "À𝖑è𝖝 𝕻ì𝖐ù ː͢»;À𝖑è𝖝 𝕻ì𝖐ù ː͢»;https://i.imgur.com/bG3I3Gc.mp4"
+      "value": "À𝖑è𝖝 𝕻ì𝖐ù ː͢»;À𝖑è𝖝 𝕻ì𝖐ù ː͢»;https://i.imgur.com/4n59xUZ.mp4"
     },
      "ALWAYS_ONLINE": {
       "description": "Bot online online : true",
