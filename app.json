@@ -19,7 +19,7 @@
      "AUDIO_DATA": {
       "description": "audio data , title;artist;image url",
       "required": "false",
-      "value": "À𝖑è𝖝 𝕻ì𝖐ù ː͢»;https://telegra.ph/file/03fd14a9266797b4227cb.jpg"
+      "value": "À𝖑è𝖝 𝕻ì𝖐ù ː͢»;https://i.imgur.com/bG3I3Gc.mp4"
      },
      "CAPTION": {
       "description": "enter your media caption",
@@ -34,7 +34,7 @@
        "BOT_INFO": {
       "description": "Bot info : botname;ownername;imageurl - image or video",
       "required": "false",
-      "value": "À𝖑è𝖝 𝕻ì𝖐ù ː͢»;À𝖑è𝖝 𝕻ì𝖐ù ː͢»;https://telegra.ph/file/03fd14a9266797b4227cb.jpg"
+      "value": "À𝖑è𝖝 𝕻ì𝖐ù ː͢»;À𝖑è𝖝 𝕻ì𝖐ù ː͢»;https://i.imgur.com/bG3I3Gc.mp4"
     },
      "ALWAYS_ONLINE": {
       "description": "Bot online online : true",
