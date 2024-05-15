@@ -304,7 +304,7 @@ command(
     dontAddCommandList: true,
   },
   async (message, match, { prefix }) => {
-    let menu = `╭───────┈┫「 *𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐬𝐭* 」┣┈────♡`;
+    let menu = `╭───────┈┫「 *À𝖑è𝖝 𝕻ì𝖐ù 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐬𝐭* 」┣┈────♡`;
     menu += `\n│\n`;
 
     let cmnd = [];
@@ -325,7 +325,7 @@ command(
       if (desc) menu += `\n│  Use: \`\`\`${desc}\`\`\``;
       menu += `\n│\n`;
     });
-    menu += `╰───────┈┫「 𝐌𝐫-𝐚𝐧𝐣𝐚𝐧-𝐌𝐃-𝐁𝐎𝐓 」┣┈────♡`;
+    menu += `╰───────┈┫「 𝐌𝐫-À𝖑è𝖝 𝕻ì𝖐ù-𝐌𝐃-𝐁𝐎𝐓 」┣┈────♡`;
     return await message.reply(message.jid, { text: (tiny(menu)) })
 })
 
@@ -457,7 +457,7 @@ command(
 	type: 'user'
 }, async (message, match) => {
 	match = match || message.reply_message.text
-	if (!match) return await message.reply('*_Need Text_!*\n *Example: setbio _〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»_*.')
+	if (!match) return await message.reply('*_Need Text_!*\n *Example: setbio _À𝖑è𝖝 𝕻ì𝖐ù👀🦋 ː͢»_*.')
 	await message.client.updateProfileStatus(match)
 	await message.reply('*_Successfully bio updated_*')
 })
