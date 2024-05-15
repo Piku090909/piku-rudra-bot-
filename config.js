@@ -18,7 +18,7 @@ module.exports = {
   WARN_COUNT: 3,
   STICKER_DATA: process.env.STICKER_DATA || "À𝖑è𝖝 𝕻ì𝖐ù ː͢»",
   BOT_INFO: process.env.BOT_INFO || "À𝖑è𝖝 𝕻ì𝖐ù ː͢»;",
-  AUDIO_DATA: process.env.AUDIO_DATA || "À𝖑è𝖝 𝕻ì𝖐ù ː͢»;À𝖑è𝖝 𝕻ì𝖐ù ː͢»;https://telegra.ph/file/03fd14a9266797b4227cb.jpg",
+  AUDIO_DATA: process.env.AUDIO_DATA || "À𝖑è𝖝 𝕻ì𝖐ù ː͢»;À𝖑è𝖝 𝕻ì𝖐ù ː͢»;https://i.imgur.com/bG3I3Gc.mp4",
   ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
   CAPTION: process.env.CAPTION || "À𝖑è𝖝 𝕻ì𝖐ù ː͢»",
   WORK_TYPE: process.env.WORK_TYPE || "private",
